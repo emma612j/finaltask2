@@ -55,14 +55,12 @@ Key Spring Concepts Used
 
 AnnotationConfigApplicationContext: Initializes Spring context with Java configuration.
 
-![Alt text](relative/or/absolute/path/to/create.png)
-![Alt text](relative/or/absolute/path/to/database.png)
-![Alt text](relative/or/absolute/path/to/delete.png)
-![Alt text](relative/or/absolute/path/to/get.png)
-![Alt text](relative/or/absolute/path/to/product.png)
-![Alt text](relative/or/absolute/path/to/put.png)
-
-
+![App Screenshot](screenshots/create.png)
+![App Screenshot](screenshots/database.png)
+![App Screenshot](screenshots/delete.png)
+![App Screenshot](screenshots/get.png)
+![App Screenshot](screenshots/product.png)
+![App Screenshot](screenshots/put.png)
 
 
 
